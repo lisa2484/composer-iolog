@@ -1,0 +1,16 @@
+{
+    "name": "phptycoon/response",
+    "description": "Response tool",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": "^7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Phptycoon\\Response\\": "src/"
+        }
+    },
+    "version": "1.0",
+    "minimum-stability": "stable"
+}
